@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinclG
-- 👀 I’m interested in stem cells, pregnancy, 
-- 🌱 I’m currently learning R, RNAseq, scRNAseq
+- 👀 I’m a postdoc at Karolinska Institutet working in the field of Reproductive Endocrinology and Metabolism. My specific topic is skeletal muscle dysfunction in polycystic ovary syndrome (PCOS).
+- 🌱 I’m currently working with single nucle RNAseq, bulk RNAseq and GWAS data
 
 
 <!---
